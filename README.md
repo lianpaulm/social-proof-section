@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/mobile-first-approach-using-flexbox-and-css-positioning-bB4o0a0Gq)
-- Live Site URL: [Add live site URL here](https://lpdesign-social-proof-section.netlify.app/)
+- Solution URL: [(https://www.frontendmentor.io/solutions/mobile-first-approach-using-flexbox-and-css-positioning-bB4o0a0Gq)]
+- Live Site URL: [(https://lpdesign-social-proof-section.netlify.app/)]
 
 ## My process
 
